@@ -2,76 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/1/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/hexo/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/latex/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/linux/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/mac/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/font/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-05-19T10:00:01+08:00</lastmod>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/test/</loc>
-    <lastmod>2019-05-18T21:11:35+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/new-post/</loc>
-    <lastmod>2019-05-18T21:04:44+08:00</lastmod>
+    <loc>http://localhost:1313/post/whyhugo/</loc>
+    <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

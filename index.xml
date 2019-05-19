@@ -6,27 +6,18 @@
     <description>Recent content on linbo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 May 2019 10:00:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 11:44:42 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>1</title>
-      <link>http://localhost:1313/post/1/</link>
-      <pubDate>Sun, 19 May 2019 10:00:01 +0800</pubDate>
+      <title>为什么选择 Hugo ？</title>
+      <link>http://localhost:1313/post/whyhugo/</link>
+      <pubDate>Sun, 19 May 2019 11:44:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/1/</guid>
-      <description>好的滴滴答答滴滴答答滴滴答答滴滴答答滴滴答答滴滴答答的好的滴滴答答滴滴答答滴滴答答滴滴答答滴滴答答滴滴答答的好的滴滴答答滴滴答答滴滴答答滴滴</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/post/test/</link>
-      <pubDate>Sat, 18 May 2019 21:11:35 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/test/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;为什么选择 Hugo ？&lt;/strong&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/post/whyhugo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(转)为什么选择 Hugo ？&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;快！世界上最快的静态网站生成工具！&lt;a href=&#34;https://twitter.com/dzello/status/895835610476199939&#34;&gt;5秒生成6000个页面！&lt;/a&gt;&lt;/li&gt;
@@ -44,15 +35,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;那么&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>New Post</title>
-      <link>http://localhost:1313/post/new-post/</link>
-      <pubDate>Sat, 18 May 2019 21:04:44 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/new-post/</guid>
-      <description>dsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfjdsgfshbdfgxhxghjnfghjgfj</description>
     </item>
     
     <item>
