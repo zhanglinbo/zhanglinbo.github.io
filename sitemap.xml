@@ -1,63 +1,63 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://zhanglinbo.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://zhanglinbo.com/categories/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/linux/</loc>
+    <loc>http://zhanglinbo.com/categories/linux/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/mac/</loc>
+    <loc>http://zhanglinbo.com/categories/mac/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://zhanglinbo.com/post/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://zhanglinbo.com/tags/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>http://zhanglinbo.com/tags/blog/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://zhanglinbo.com/tags/hugo/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://zhanglinbo.com/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/whyhugo/</loc>
+    <loc>http://zhanglinbo.com/post/whyhugo/</loc>
     <lastmod>2019-05-19T11:44:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://zhanglinbo.com/about/</loc>
     <priority>0</priority>
   </url>
   
