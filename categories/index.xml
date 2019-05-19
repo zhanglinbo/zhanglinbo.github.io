@@ -6,9 +6,28 @@
     <description>Recent content in Categories on linbo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 19 May 2019 10:00:01 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/categories/linux/</link>
+      <pubDate>Sun, 19 May 2019 10:00:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>http://localhost:1313/categories/mac/</link>
+      <pubDate>Sun, 19 May 2019 10:00:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/mac/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
